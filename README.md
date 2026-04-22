@@ -16,15 +16,15 @@
 
 ```text
 ├── src/
-│   ├── access/        # 权限控制模块 (RBAC 核心逻辑)
-│   ├── api/           # 接口请求层 (预留 RESTful 接口)
+│   ├── access/        # 权限控制模块 
+│   ├── api/           # 接口请求层 
 │   ├── components/    # 通用业务组件
 │   ├── layouts/       # 页面基础布局 (侧边栏、顶栏)
 │   ├── router/        # 路由配置与动态权限守卫
 │   ├── store/         # Pinia 状态管理 (包含用户信息)
 │   └── pages/         # 业务页面 (登录、用户管理、个人中心)
 ├── public/            # 静态资源
-├── vite.config.ts     # Vite 核心配置 (已配置 base: './')
+├── vite.config.ts     # Vite 核心配置
 ├── package.json       # 项目依赖与脚本
 └── README.md          # 项目说明文档
 ```
