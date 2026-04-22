@@ -5,13 +5,12 @@
 
 ## 🛠️ 技术栈
 
-- **核心框架**: Vue 3.5+ (Composition API)
-- **构建工具**: Vite 5.x (已优化打包路径)
-- **路由管理**: Vue Router 4.x (包含全局权限守卫)
-- **状态管理**: Pinia 2.x (支持持久化插件)
-- **UI 组件库**: Ant Design Vue 4.x
-- **样式方案**: Windi CSS / CSS Modules
-- **开发语言**: TypeScript 5.x
+- **核心框架**: Vue3 
+- **构建工具**: Vite  
+- **路由管理**: Vue Router (包含全局权限守卫)
+- **状态管理**: Pinia 
+- **UI 组件库**: Ant Design Vue 
+- **开发语言**: TypeScript
 
 ## 📂 项目结构
 
